@@ -66,10 +66,10 @@ Accuracy Achieved: ~96–97%
 
 ## Repository Structure
 CODSOFT
-│
-├── Credit_Card_Fraud_Detection
-├── Customer_Churn_Prediction
-├── Spam_SMS_Detection
+-│
+-├── Credit_Card_Fraud_Detection
+-├── Customer_Churn_Prediction
+-├── Spam_SMS_Detection
 
 Each folder contains:
 - Project code
