@@ -1,55 +1,32 @@
 # Machine Learning Internship Projects – CodSoft
 
-This repository contains the machine learning projects completed during my internship at CodSoft.  
-The purpose of this internship was to gain practical experience in applying machine learning techniques to real-world datasets and building predictive models.
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Machine Learning](https://img.shields.io/badge/Machine-Learning-green)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+This repository contains the projects completed during my **Machine Learning Internship at CodSoft**.  
+The projects demonstrate practical implementation of machine learning algorithms on real-world datasets including fraud detection, customer churn prediction, and spam message classification.
+
+---
 
 ## Internship Details
+
 Organization: CodSoft  
 Domain: Machine Learning  
 Role: Machine Learning Intern  
 
-During this internship, I worked on multiple machine learning tasks involving classification problems, data preprocessing, and model evaluation.
+During this internship, I worked on multiple machine learning classification problems and implemented complete ML workflows including data preprocessing, feature engineering, model training, and evaluation.
 
 ---
 
-## Projects Included
+## Projects
 
-### 1. Credit Card Fraud Detection
-A machine learning model designed to detect fraudulent credit card transactions using transaction data.
-
-Key Features:
-- Data preprocessing and feature encoding
-- Handling large datasets
-- Random Forest classification model
-- Performance evaluation using confusion matrix and classification metrics
-
-Accuracy Achieved: ~99.7%
-
----
-
-### 2. Customer Churn Prediction
-A predictive model that identifies customers who are likely to leave a bank's services.
-
-Key Features:
-- Customer data analysis
-- Feature engineering and encoding
-- Random Forest classification
-- Model evaluation using accuracy and classification metrics
-
-Accuracy Achieved: ~86%
-
----
-
-### 3. Spam SMS Detection
-A Natural Language Processing (NLP) based machine learning model used to classify SMS messages as spam or legitimate.
-
-Key Features:
-- Text preprocessing
-- TF-IDF vectorization
-- Multinomial Naive Bayes classifier
-- Spam message classification
-
-Accuracy Achieved: ~96–97%
+| Project | Description | Accuracy |
+|-------|-------------|----------|
+| Credit Card Fraud Detection | Detect fraudulent transactions using machine learning | 99.7% |
+| Customer Churn Prediction | Predict whether a customer will leave a bank service | 86% |
+| Spam SMS Detection | Classify SMS messages as spam or legitimate | 96–97% |
 
 ---
 
@@ -65,33 +42,32 @@ Accuracy Achieved: ~96–97%
 ---
 
 ## Repository Structure
+
 CODSOFT
 
 - Credit_Card_Fraud_Detection
 - Customer_Churn_Prediction
 - Spam_SMS_Detection
 
-Each folder contains:
-- Project code
-- Project documentation
-- Dataset reference
 
 ---
 
 ## Learning Outcomes
 
-Through this internship, I gained practical experience in:
+Through this internship I gained hands-on experience in:
 
 - Data preprocessing and feature engineering
-- Building classification models
+- Building machine learning classification models
 - Handling large datasets
-- Evaluating machine learning models
-- Applying machine learning to real-world problems
+- Evaluating models using accuracy, precision, recall, and confusion matrix
+- Applying machine learning techniques to real-world problems
 
 ---
 
 ## Acknowledgment
 
-I would like to thank CodSoft for providing the opportunity to work on real-world machine learning tasks and helping me improve my practical knowledge in data science and machine learning.
+I would like to thank **CodSoft** for providing this opportunity to work on practical machine learning tasks and enhance my understanding of real-world data science applications.
+
+---
 
 ---
